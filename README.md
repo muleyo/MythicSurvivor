@@ -25,7 +25,7 @@ MythicSurvivor is a powerful World of Warcraft addon that **predicts whether you
 - 🛡️ **Defensive cooldown tracking** with class-specific abilities
 - 📈 **Keystone scaling support** (levels 2-30+)
 - ⚡ **Affix integration** (Tyrannical/Fortified)
-- 🎨 **Modern, transparent UI** inspired by Details/ElvUI
+- 🎨 **Modern, transparent UI**
 - 🔧 **Accurate damage formulas** using official WoW APIs
 
 ---
