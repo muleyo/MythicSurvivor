@@ -21,8 +21,7 @@
 MythicSurvivor is a powerful World of Warcraft addon that **predicts whether you'll survive specific boss and trash mob abilities** in Mythic+ dungeons. No more guessing if you need to use a defensive cooldown—get accurate survival predictions based on your current health, gear, and defensive abilities.
 
 ### 🔥 Key Highlights
-- 📊 **Real-time survival calculations** for Mythic+ abilities
-- 🛡️ **Defensive cooldown tracking** with class-specific abilities
+- 📊 **Survival calculations** for Mythic+ abilities
 - 📈 **Keystone scaling support** (levels 2-30+)
 - ⚡ **Affix integration** (Tyrannical/Fortified)
 - 🎨 **Modern, transparent UI**
@@ -42,20 +41,6 @@ MythicSurvivor is a powerful World of Warcraft addon that **predicts whether you
 - **Class-specific personal defensives** (only shows your class abilities)
 - **External defensive tracking** (Pain Suppression, Ironbark, etc.)
 - **Group buff integration** (Rallying Cry, Devotion Aura, etc.)
-- **Smart damage type filtering** (Anti-Magic Zone only affects magic damage)
-
-### 📊 Mythic+ Integration
-- **Accurate keystone scaling** with official percentages
-- **Tyrannical/Fortified affix support** with automatic activation at level 10+
-- **Boss vs trash ability distinction** for proper affix calculations
-- **AOE damage reduction** support (Zephyr, Feint, etc.)
-
-### 🎨 User Interface
-- **Modern, transparent design** that fits any UI
-- **Smooth fade animations** for showing/hiding
-- **Drag-and-drop positioning** for customization
-- **Intuitive defensive selection** with visual feedback
-- **Support/social links** built into the interface
 
 ---
 
@@ -94,7 +79,6 @@ Use the in-game command to open the MythicSurvivor interface:
 ### Understanding the Display
 - 🟢 **Green text**: You'll survive with health remaining
 - 🔴 **Red text**: Lethal damage - shows overkill amount
-- 📊 **Percentage values**: Your survival chance as a percentage
 - ⚡ **Scaled values**: Damage adjusted for keystone level and affixes
 
 ---
@@ -126,38 +110,11 @@ Use the in-game command to open the MythicSurvivor interface:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-### 🐛 Bug Reports
-- Use the [Issues](../../issues) tab to report bugs
-- Include your WoW version, addon version, and steps to reproduce
-
-### 💡 Feature Requests
-- Suggest new features via [Issues](../../issues)
-- Describe the use case and expected behavior
-
-### 🔧 Development
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes and test thoroughly
-4. Submit a pull request with detailed description
-
-### 📊 Data Contributions
-Help expand our ability database:
-- Submit damage values for new dungeons
-- Report incorrect damage calculations
-- Provide feedback on survival accuracy
-
----
-
 ## 📞 Support & Community
 
 ### 🔗 Links
 - **GitHub**: [MythicSurvivor Repository](https://github.com/muleyo/MythicSurvivor)
 - **Issues**: [Bug Reports & Feature Requests](../../issues)
-- **Discord**: Join our community for support and updates
 
 ### ❤️ Support the Project
 If MythicSurvivor helps you push higher keys:
