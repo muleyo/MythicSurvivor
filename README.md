@@ -44,30 +44,7 @@ MythicSurvivor is a powerful World of Warcraft addon that **predicts whether you
 
 ---
 
-## 📥 Installation
-
-### Method 1: Manual Installation
-1. Download the latest release from [GitHub Releases](../../releases)
-2. Extract the `MythicSurvivor` folder to your WoW AddOns directory:
-   ```
-   World of Warcraft\_retail_\Interface\AddOns\MythicSurvivor\
-   ```
-3. Restart World of Warcraft or reload your UI (`/reload`)
-
-### Method 2: Curse/CurseForge
-1. Install via CurseForge client
-2. Search for "MythicSurvivor" in the addon browser
-3. Click install and launch WoW
-
----
-
 ## 🚀 Usage
-
-### Opening the GUI
-Use the in-game command to open the MythicSurvivor interface:
-```
-/ms
-```
 
 ### Basic Workflow
 1. **Open MythicSurvivor** with `/ms` command
@@ -80,23 +57,6 @@ Use the in-game command to open the MythicSurvivor interface:
 - 🟢 **Green text**: You'll survive with health remaining
 - 🔴 **Red text**: Lethal damage - shows overkill amount
 - ⚡ **Scaled values**: Damage adjusted for keystone level and affixes
-
----
-
-## 🖼️ Screenshots
-
-<div align="center">
-
-### Main Interface
-*Modern, clean interface showing survival predictions*
-
-### Defensive Selection
-*Class-specific defensive abilities with visual selection*
-
-### Keystone Scaling
-*Real-time updates based on keystone level and affixes*
-
-</div>
 
 ---
 
@@ -122,6 +82,7 @@ If MythicSurvivor helps you push higher keys:
 - 🐛 **Report bugs** to help improve the addon
 - 💡 **Suggest features** to make it even better
 - 📢 **Share with friends** who run Mythic+ dungeons
+- 💰 **[Donate](https://streamelements.com/muleyo/tip)** to the creator ❤️
 
 ---
 
