@@ -1,0 +1,15 @@
+## Interface: 110200
+## Title: |cffcccc99Mythic Survivor|r
+## Notes: Predicts if you'll survive boss and trash mob abilities
+## Author: muleyo
+## Version: 1.0.0
+## DefaultState: enabled
+## IconTexture: Interface\AddOns\MythicSurvivor\Logo_64x64.png
+## X-Curse-Project-ID: 1355408
+
+MythicSurvivor.lua
+Core\Database.lua
+Core\Calculator.lua
+GUI\Widgets.lua
+GUI\MainFrame.lua
+Functions.lua
