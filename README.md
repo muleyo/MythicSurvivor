@@ -8,7 +8,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/muleyo/MythicSurvivor)
 [![Interface](https://img.shields.io/badge/interface-11.2.0-green.svg)](https://worldofwarcraft.com)
-[![License](https://img.shields.io/badge/license-GNUv3-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL-yellow.svg)](LICENSE)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
